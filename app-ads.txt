@@ -83,7 +83,7 @@ pubmatic.com, 158481, RESELLER, 5d62403b186f2ace
 rhythmone.com, 3948367200, RESELLER, a670c89d4a324e47
 video.unrulymedia.com, 3948367200, RESELLER
 rubiconproject.com, 20854, RESELLER, 0bfd66d529a55807
-# Charrboost
+# Chartboost
 chartboost.com, 5f180950c72e8908f9f6f514, DIRECT
 appnexus.com, 10005, RESELLER, f5ab79cb980f11d1
 bidmachine.io, 98, RESELLER
