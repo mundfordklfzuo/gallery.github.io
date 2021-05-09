@@ -99,6 +99,16 @@ aol.com, 57992, RESELLER, e1a5b5b6e3255540
 yahoo.com, 57992, RESELLER, e1a5b5b6e3255540
 tpmn.io, 256, RESELLER
 mars.media, 1010380, RESELLER, 8624339f102fb076
+pubmatic.com, 160194, RESELLER, 5d62403b186f2ace
+pubmatic.com, 160195, RESELLER, 5d62403b186f2ace
+appnexus.com, 12752, RESELLER
+pubmatic.com, 158154, RESELLER, 5d62403b186f2ace
+admanmedia.com, 594, RESELLER
+pubmatic.com, 157529, RESELLER, 5d62403b186f2ace
+xandr.com, 12745, RESELLER, f5ab79cb980f11d1
+teads.tv, 21703, RESELLER, 15a9c44f6d26cbe1
+smartadserver.com, 3964, RESELLER
+adcolony.com, e8d70ef9dfabde92, RESELLER, 1ad675c9de6b5176
 # Chartboost
 chartboost.com, 5f180950c72e8908f9f6f514, DIRECT
 appnexus.com, 10005, RESELLER, f5ab79cb980f11d1
