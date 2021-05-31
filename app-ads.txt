@@ -1,4 +1,6 @@
 google.com, pub-5825624695132365, DIRECT, f08c47fec0942fa0
+#Mopub
+mopub.com, 5e9ca180656f47409256a85a0d27d9da, DIRECT, 74b46c0ea83967ca
 #A4G
 a4g.com, 2775364, DIRECT
 ad.plus, 352349, DIRECT
