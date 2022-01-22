@@ -367,3 +367,5 @@ inmobi.com, 062029933580429f9920bad476d8d70a, RESELLER, 83e75a7ae333ca9d
 mintegral.com, 10038, RESELLER
 telaria.com, rwd19-3834106, RESELLER, 1a4e959a1b50034a
 unity.com, 3834106, DIRECT, 96cabb5fbdde37a7
+#Facebook
+facebook.com, 375155254414445, RESELLER, c3e20eee3f780d68
