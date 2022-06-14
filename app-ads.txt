@@ -249,7 +249,6 @@ chartboost.com, 5f180950c72e8908f9f6f514, DIRECT
 appnexus.com, 10005, RESELLER, f5ab79cb980f11d1
 bidmachine.io, 98, RESELLER
 indexexchange.com, 185578, RESELLER, 50b1c356f2c5c8fc
-lkqd.net, 459, RESELLER, 59c49fa9598a0117
 mobfox.com, 82593, RESELLER, 5529a3d1f59865be
 openx.com, 540338069, RESELLER, 6a698e2ec38604c6
 rhythmone.com, 1605779867, RESELLER, a670c89d4a324e47
@@ -292,9 +291,20 @@ conversantmedia.com, 100097, RESELLER, 03113cd04947736d
 e-planning.net, bce51a8513581788, RESELLER, c1ba615865ed87b2
 bidmachine.io, 187, RESELLER
 bidmachine.io, 195, RESELLER
-criteo.com, B-057601, DIRECT, 9fac4a4a87c2a44f
-themediagrid.com, SWH94X, DIRECT, 35d5010d7789b49d
+criteo.com, B-057601, RESELLER, 9fac4a4a87c2a44f
+themediagrid.com, SWH94X, RESELLER, 35d5010d7789b49d
 yahoo.com, 59663, RESELLER, e1a5b5b6e3255540
+criteo.com, B-057955, RESELLER, 9fac4a4a87c2a44f
+themediagrid.com, NG9STC, RESELLER, 35d5010d7789b49d
+bigo.sg, 130, RESELLER
+loopme.com, 11414, RESELLER, 6c8d5f95897a5a3b
+admanmedia.com, 894, RESELLER
+acd.op.hicloud.com, PUB_HW_1003, RESELLER
+adx-dre.op.hicloud.com, PUB_HW_1003, RESELLER
+adx-dra.op.hicloud.com, PUB_HW_1003, RESELLER
+adx-drru.op.hicloud.com, PUB_HW_1003, RESELLER
+webeyemob.com, 70098, RESELLER
+yandex.com, 97539269, RESELLER
 #Smatto
 smaato.com, 1100046989, DIRECT, 07bcf65f187117b4
 smaato.com, 1100004890, DIRECT, 07bcf65f187117b4
